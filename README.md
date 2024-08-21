@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+Hi, I am Farhana (Farha) Hai. I am a technically adept front-runner who steps up to new challenges with creativity, vision, and solutions. I am passionate about object-oriented programming, AI/ML, cloud computing, and project management. I possess database knowledge with formal Java, Python, Cloud Computing, AI/ML, BI and Data Modeling. 
+
 
 <!--
 **farha2727/farha2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
