@@ -1,5 +1,10 @@
 ### 
-Hi, I am Farhana (Farha) Hai. I am a technically adept front-runner who steps up to new challenges with creativity, vision, and solutions. I am passionate about object-oriented programming, AI/ML, cloud computing, and project management. I possess database knowledge with formal Java, Python, Cloud Computing, AI/ML, BI and Data Modeling. 
+Hi, I am Farhana (Farha) Hai. I am a technically adept front-runner who steps up to new challenges with creativity, vision, and solutions. I am passionate about object-oriented programming, AI/ML, cloud computing, and project management. I possess database knowledge with formal boot camp training from Generation USA in object oriented programming, Java, Python, Cloud Computing, AI/ML, BI and Data Modeling.
+
+The major certifications I have obtained are in Java Script, PMP(PMI), Tableau Desktop, AWS Cloud Practitioner, Azure, Six Sigma Black Belt, Scrum Master, and Google Analytics.
+My academic credentials include an MS in Information Technology from the University of Dallas, in 2014.
+
+
 
 ![](https://media.licdn.com/dms/image/v2/C4E16AQEjbRQ53SPEXA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1647979000187?e=1729728000&v=beta&t=tHJDEmy-KCPdUElyAUWKPkdfbz84Z96Hd2GTpyIiMnI)
 
