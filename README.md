@@ -1,15 +1,14 @@
 ###  
-Hello, I am Farhana (Farha) Hai. I am a technically adept front-runner who steps up to new challenges with creativity, vision, and solutions. I am passionate about object-oriented programming, Data Analysis, AI/ML, cloud computing, and project management. I possess formal boot camp trainings from Generation USA and Multiverse in Object Oriented Programming, Python, Cloud Computing, AI/ML, BI, Data Base and Data Modeling.
+
+Hello, I am Farhana (Farha) Hai.A skilled, forward-thinking professional who embraces new challenges with creativity, vision, and practical solutions. I have a strong foundation in database management, web development, and project management, along with formal training in Java, Python, SQL, Business Intelligence, Cloud Computing, AI/ML, and Data Modeling.
 
 The major certifications I have obtained are in Java Script, PMP(PMI), Tableau Desktop, AWS Cloud Practitioner, Azure, Six Sigma Black Belt, Scrum Master, and Google Analytics.
 My academic credential includes an MS in Information Technology from the University of Dallas.
 
-
-
 ![](https://media.licdn.com/dms/image/v2/C4E16AQEjbRQ53SPEXA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1647979000187?e=1729728000&v=beta&t=tHJDEmy-KCPdUElyAUWKPkdfbz84Z96Hd2GTpyIiMnI)
 
 
-Skills: JS / REACT / JAVA / HTML / CSS / PYTHON / SQL /C++/ Data Bricks
+Skills: JS / REACT / JAVA / HTML / CSS / PYTHON / SQL / Databricks /Big Query/ Ms Excel / Power BI/ Tableau
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: farhana.hai@yahoo.com 
