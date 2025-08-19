@@ -1,6 +1,6 @@
 ###  
 
-Hello, I am Farhana (Farha) Hai. A skilled, forward-thinking professional who embraces new challenges with creativity, vision, and practical solutions.I have a strong foundation in database management, web development, and project management, along with formal training in Java, Python, SQL, Business Intelligence, Cloud Computing, AI/ML, and Data Modeling.
+Hello, I am Farhana (Farha) Hai. A skilled, forward-thinking professional who embraces new challenges with creativity, vision, and practical solutions. I have a strong foundation in database management, web development, and project management, along with formal training in Java, Python, SQL, Business Intelligence, Cloud Computing, AI/ML, and Data Modeling.
 
 The major certifications I have obtained are in Java Script, PMP(PMI), Tableau Desktop, AWS Cloud Practitioner, Azure, Six Sigma Black Belt, Scrum Master, and Google Analytics.
 My academic credential includes an MS in Information Technology from the University of Dallas.
